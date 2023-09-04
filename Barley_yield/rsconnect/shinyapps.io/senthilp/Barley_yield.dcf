@@ -1,0 +1,12 @@
+name: Barley_yield
+title: Barley_yield
+username: senthilp
+account: senthilp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9759994
+bundleId: 7643756
+url: https://senthilp.shinyapps.io/Barley_yield/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
